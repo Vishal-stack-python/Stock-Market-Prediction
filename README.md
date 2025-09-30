@@ -32,9 +32,11 @@ Built with **Python, yfinance, Pandas, Matplotlib, and Scikit-learn**.
    cd stock-price-predictor
    
 2. Install dependencies
+   ```bash
    pip install -r requirements.txt
 
 3. Run the script
+   ```bash
    python test.py
  
 
